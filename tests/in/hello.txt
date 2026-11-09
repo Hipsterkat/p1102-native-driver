@@ -1,0 +1,2 @@
+Hello from the HP LaserJet P1102 test suite.
+The quick brown fox jumps over the lazy dog 0123456789

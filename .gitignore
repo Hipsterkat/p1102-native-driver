@@ -1,0 +1,15 @@
+# HP files extracted from Apple's package: not redistributable
+hp/
+# build output, including the .pkg that embeds HP data
+build/
+dist/
+*.pkg
+*.dmg
+# personal: the original queue's PPD and settings (printer serial number)
+backup/
+# test data created locally (HP reference outputs, rasters, PDFs with embedded system fonts)
+tests/ref/
+tests/ras/
+tests/in/*.pdf
+app/build/
+.DS_Store
